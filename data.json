@@ -1,0 +1,12 @@
+{
+    "transactions": [
+        {
+            "type": "expense",
+            "amount": 300.0,
+            "category": "Entertainment",
+            "description": "movie",
+            "date": "23-09-2026"
+        }
+    ],
+    "monthly_budget": 0
+}
